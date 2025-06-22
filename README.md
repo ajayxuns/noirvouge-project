@@ -75,9 +75,9 @@ This project is a front-end brand showcase for **Noir Vogue**, designed to resem
 
 ### 🖼️ Screenshots
 
-| Homepage | Product Page |
-|----------|--------------|
-| ![Homepage](https://github.com/user-attachments/assets/d4c5d467-6b30-4d3e-ba7a-e78f496e00ac) | ![Product Page]([./screenshots/product-page.png](https://github.com/user-attachments/assets/4c9a9fd6-9a06-4727-a47f-c60f91c938e3)) |
+| Homepage |
+|----------|
+| ![Homepage](https://github.com/user-attachments/assets/d4c5d467-6b30-4d3e-ba7a-e78f496e00ac) | 
 
 ---
 
