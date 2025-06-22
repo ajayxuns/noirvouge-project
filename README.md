@@ -8,7 +8,7 @@ Welcome to **Noir Vogue**, a luxurious and modern fashion website built with pur
 
 ## 🌐 Live Preview
 
-**Coming Soon** – Deployment in progress...
+[Preview](https://noirvogue.netlify.app/)
 
 ---
 
@@ -71,11 +71,32 @@ This project is a front-end brand showcase for **Noir Vogue**, designed to resem
 
 ---
 
+## 📸 Screenshots & 🎥 Screen Recordings
+
+### 🖼️ Screenshots
+
+| Homepage | Product Page |
+|----------|--------------|
+| ![Homepage](https://github.com/user-attachments/assets/d4c5d467-6b30-4d3e-ba7a-e78f496e00ac) | ![Product Page]([./screenshots/product-page.png](https://github.com/user-attachments/assets/4c9a9fd6-9a06-4727-a47f-c60f91c938e3)) |
+
+---
+
+### 🎬 Screen Recording
+
+- Watch the Three Homepage demo here:  
+  [![Hompage 1](https://github.com/user-attachments/assets/089c4390-fe10-453a-9be9-b0cc72e3aea2)
+  [![Hompage 2](https://github.com/user-attachments/assets/ef91a7d1-df2b-49cd-a0b0-4bd65bbffde0)
+  [![Hompage 3](https://github.com/user-attachments/assets/d5794bb0-1854-4697-8370-8df3fd411f40)
+  
+  
+---
+
 ## 📜 License
 
-All rights reserved © 2025 **Noir Vogue** by Ajay Bankar.  
-This project is for **portfolio and educational use only**. Reuse is prohibited without permission.
+This project is **proprietary and closed-source**.  
+All rights reserved © 2025 **Noir Vogue** by Ajay Bankar.
 
+> ❗ You are **not allowed** to use this code or design for any portfolio, commercial, academic, or resume-related purposes without my **explicit written permission**.
 ---
 
 ## 🙋‍♂️ About Me
